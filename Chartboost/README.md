@@ -7,7 +7,7 @@ BurstlyChartboostAdaptor
 
 ###Integration
 
-Refer to the SkyRocket integration documentation for instructions on integrating [SkyRocket Adaptors](http://quickstart.burstly.com/ios-guide#SkyRocket-Adapters).
+Refer to the SkyRocket integration documentation for instructions on integrating [SkyRocket Adaptors](http://quickstart.burstly.com/ios-guide#SkyRocket-Adaptors).
 
 ###Custom Parameters
 
